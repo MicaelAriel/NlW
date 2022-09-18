@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗Clique aqui para acessar](https://https://micaelariel.github.io/NlW/)
+[🔗Clique aqui para acessar](https://micaelariel.github.io/NlW/)
 
 ## 💻 Tecnologias
 
